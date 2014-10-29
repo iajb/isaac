@@ -1,0 +1,155 @@
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\SisReg.exe
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\SisReg.xml
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\SisReg.pdb
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\bin\SisReg.exe.manifest
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\bin\SisReg.application
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\bin\SisReg.exe
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\bin\SisReg.pdb
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\bin\SisReg.xml
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\ResolveAssemblyReference.cache
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Proyecto.vbproj.ResolveComReference.cache
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.crpvend.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.crpclientes.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.crpproveedor.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.crpuser.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.usercontrol.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_grupos_prod.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.otros_contactos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frmlogin2.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.FrmPrincipal.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frmrepcliente.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frmrepproveedor.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frmrepuser.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frmrepvendedor.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frmusercontrol.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_acercade.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_cobro_prod.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_consulta_productos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_productos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_Reporte_venta.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_consulta_usuario.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_inguser.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_venta_producto.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_Proveedores.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_auditoriausuario.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_auditoria_de_archivo.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_cambiarcontraseña.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_consulta_generalusuarios.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_desencriptar.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_consulta_Usuarios.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_cliente.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.Resources.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_ingreso_vend.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frm_Vendedor.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\SisReg.exe.manifest
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\SisReg.application
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.crpproductos.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema Comercial\Sisreg\obj\Debug\Project1.frmrepproductos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\SisReg.exe
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\SisReg.xml
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\SisReg.pdb
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\bin\SisReg.exe.manifest
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\bin\SisReg.application
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\bin\SisReg.exe
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\bin\SisReg.pdb
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\bin\SisReg.xml
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\ResolveAssemblyReference.cache
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Proyecto.vbproj.ResolveComReference.cache
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.crpproductos.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.crpvend.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.crpclientes.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.crpproveedor.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.crpuser.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.usercontrol.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_grupos_prod.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.otros_contactos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmrepproductos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmlogin2.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.FrmPrincipal.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmrepcliente.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmrepproveedor.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmrepuser.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmrepvendedor.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmusercontrol.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_acercade.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_cobro_prod.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_consulta_productos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_productos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_Reporte_venta.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_consulta_usuario.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_inguser.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_venta_producto.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_Proveedores.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_auditoriausuario.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_auditoria_de_archivo.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_cambiarcontraseña.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_consulta_generalusuarios.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_desencriptar.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_consulta_Usuarios.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_cliente.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.Resources.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_ingreso_vend.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_Vendedor.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\SisReg.exe.manifest
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\SisReg.application
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_bancos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_cons_bancos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmreginventario.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_consproductos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmabonos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_financiamiento.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\bin\SisReg.exe.config
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_cons_det_fin.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_cons_financiamiento.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frm_cons_prod_inactivos.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.crpventas.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmrepventas.resources
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.crpfullproductos.rpt
+E:\proyectos recientes\Sistema Alexandra\Sistema de registro comercial Sisreg\obj\Debug\Project1.frmfullprod.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\ResolveAssemblyReference.cache
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Proyecto.vbproj.ResolveComReference.cache
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.crpvend.rpt
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.crpclientes.rpt
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.crpproveedor.rpt
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.crpuser.rpt
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_bancos.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_cons_bancos.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.usercontrol.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.otros_contactos.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frmlogin2.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.FrmPrincipal.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frmrepcliente.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frmrepproveedor.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frmrepuser.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frmrepvendedor.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frmusercontrol.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_acercade.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_consulta_usuario.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_inguser.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_Proveedores.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_auditoriausuario.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_auditoria_de_archivo.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_cambiarcontraseña.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_consulta_generalusuarios.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_desencriptar.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_consulta_Usuarios.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_cliente.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.Resources.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_ingreso_vend.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_Vendedor.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_registrocampaña.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Project1.frm_regcobranzas.resources
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\bin\Callist.exe.config
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\bin\Callist.exe.manifest
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\bin\Callist.application
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\bin\Callist.exe
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\bin\Callist.pdb
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\bin\Callist.xml
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Callist.exe.manifest
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Callist.application
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Callist.exe
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Callist.xml
+E:\proyectos recientes\Sistema Mendieta\Sistema de registro de llamadas CALLIST\obj\Debug\Callist.pdb

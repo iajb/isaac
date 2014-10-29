@@ -1,0 +1,5 @@
+G:\respaldo\Manuales\Sistema Mendieta\Sistema de registro de llamadas CALLIST 28_08_08___4am\bin\Callist.exe.config
+G:\respaldo\Manuales\Sistema Mendieta\Sistema de registro de llamadas CALLIST 28_08_08___4am\obj\Debug\Proyecto.vbproj.ResolveComReference.cache
+G:\respaldo\Manuales\Sistema Mendieta\Sistema de registro de llamadas CALLIST 28_08_08___4am\obj\Debug\Callist.exe
+G:\respaldo\Manuales\Sistema Mendieta\Sistema de registro de llamadas CALLIST 28_08_08___4am\obj\Debug\Callist.xml
+G:\respaldo\Manuales\Sistema Mendieta\Sistema de registro de llamadas CALLIST 28_08_08___4am\obj\Debug\Callist.pdb
